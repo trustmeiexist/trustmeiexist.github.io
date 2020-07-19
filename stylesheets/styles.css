@@ -29,8 +29,8 @@ body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
-	color: #EDEBD7;
-	background-color: #423E37;
+	color: #232323;
+	background-color: #FBFAF7;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -38,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#EDEBD7;
+  color:#232323;
   margin:36px 0 10px;
 }
 
@@ -170,7 +170,7 @@ code, pre {
 
 pre {
 	padding: 4px 12px;
-  background: #423E37;
+  background: #FDFEFB;
   border-radius:4px;
   border:1px solid #D7D8C8;
   overflow: auto;

@@ -30,7 +30,7 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
-	background-color: #FBFAF7;
+	background-color: #423E37;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -38,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#232323;
+  color:#EDEBD7;
   margin:36px 0 10px;
 }
 
@@ -116,7 +116,7 @@ blockquote {
 }
 
 dl, dt, dd, dl p {
-	font-color: #444;
+	font-color: #A39594;
 }
 
 dl dt {

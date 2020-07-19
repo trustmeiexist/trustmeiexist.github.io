@@ -1,0 +1,8 @@
+title: Trustmeiexist's Portfolio
+description: Technical Artist, Video Game Enthusiast, 3D Modeler
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
